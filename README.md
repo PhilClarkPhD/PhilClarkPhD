@@ -1,5 +1,5 @@
 
-<img src="https://user-images.githubusercontent.com/63692324/137966944-11b35bf9-87ad-4abd-8ec8-6e589cf153a9.gif" width="900" height="500"/>
+<img src="https://user-images.githubusercontent.com/63692324/137966944-11b35bf9-87ad-4abd-8ec8-6e589cf153a9.gif" width="700" height="400"/>
 
 ### I am a neuroscientist with background in substance abuse, dopamine, and sleep research.
 
