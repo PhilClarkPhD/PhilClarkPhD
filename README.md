@@ -1,4 +1,4 @@
-# 🧠 ❤️ data
+
 
 ### I am a neuroscientist with background in substance abuse, dopamine, and sleep research.
 
