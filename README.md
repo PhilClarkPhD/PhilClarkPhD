@@ -11,6 +11,10 @@
 - GUI for servo-based automation of fast scan cyclic voltammetry experiments
 - Regression estimation of calibration factors for voltammetry electrodes 
 
+Say hello!
+📫 phil.clark.phd@gmail.com
+🔗 linkedin.com/in/philclarkma
+
 
 <!--
 **PhilClarkPhD/PhilClarkPhD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
