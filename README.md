@@ -1,4 +1,4 @@
-### Neuroscientist 🧠 who loves data
+### 🧠 ❤️ data
 
 <!--
 **PhilClarkPhD/PhilClarkPhD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
