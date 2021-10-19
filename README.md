@@ -12,9 +12,7 @@
 - Regression estimation of calibration factors for voltammetry electrodes 
 
 Say hello!
-
 📫 phil.clark.phd@gmail.com
-
 🔗 www.linkedin.com/in/philclarkma
 
 
