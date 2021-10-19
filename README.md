@@ -1,4 +1,5 @@
 
+![fscv_traces](https://user-images.githubusercontent.com/63692324/137964480-f7ddbbbf-a5d4-41a8-bfbd-5c23b98be409.gif)
 
 ### I am a neuroscientist with background in substance abuse, dopamine, and sleep research.
 
