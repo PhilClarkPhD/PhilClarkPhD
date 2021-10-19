@@ -1,6 +1,6 @@
 # 🧠 ❤️ data
 
-## I am a neuroscientist with background in substance abuse, dopamine, and sleep research.
+### I am a neuroscientist with background in substance abuse, dopamine, and sleep research.
 
 🕒 Recent projets:
 - RNN for real-time classification of sleep/wake states
