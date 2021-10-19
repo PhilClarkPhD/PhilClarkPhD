@@ -1,4 +1,4 @@
-### I am a neuroscientist 🧠 who loves working with data!
+### 🧠 Neuroscientist 🧠 who loves working with data!
 
 <!--
 **PhilClarkPhD/PhilClarkPhD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
