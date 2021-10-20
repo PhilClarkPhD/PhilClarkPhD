@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/63692324/137978421-d1272248-bdd4-428c-9f29-7a51a2a51d9d.gif" width="900" height="400"/>
 
 
-## Neuroscientist with background in substance abuse, dopamine, and sleep research.
+## Welcome! I am a neuroscientist who loves to work with data.
 
 🕒 Recent projets:
 - RNN for real-time classification of sleep/wake states
