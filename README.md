@@ -5,7 +5,7 @@
 ## Welcome! I am a neuroscientist who loves to work with data.
 
 🕒 Recent projets:
-- RNN for real-time classification of sleep/wake states
+- Real-time classification of sleep/wake states
 - Batch analysis of cocaine self-administration data
 - Pipeline for fiber photometry data
 - GUI for servo-based automation of fast scan cyclic voltammetry experiments
