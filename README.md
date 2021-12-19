@@ -4,7 +4,7 @@
 
 ## Welcome! I am a neuroscientist who loves to work with data.
 
-🕒 ### **_Recent projets:_**
+🕒 **_Recent projets:_**
 - Automated analysis of sleep data
 - Batch analysis of cocaine self-administration data
 - Pipeline for fiber photometry data
