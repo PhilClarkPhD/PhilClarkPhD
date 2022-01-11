@@ -4,7 +4,7 @@
 
 ## Welcome! I am a neuroscientist who loves to work with data.
 
-### 🕒 **Recent projets:**
+### 🕒 **Recent projects:**
 - [Sleep analysis with automated scoring](https://github.com/PhilClarkPhD/sleep)
 - Batch analysis of cocaine self-administration data
 - Pipeline for fiber photometry data
