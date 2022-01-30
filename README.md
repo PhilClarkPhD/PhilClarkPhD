@@ -6,8 +6,8 @@
 
 ### 🕒 **Recent projects:**
 - [Sleep analysis with automated scoring](https://github.com/PhilClarkPhD/sleep)
+- [Photometry analysis program](https://github.com/PhilClarkPhD/photometry)
 - Batch analysis of cocaine self-administration data
-- Pipeline for fiber photometry data
 - GUI for servo-based automation of fast scan cyclic voltammetry experiments
 - Regression estimation of calibration factors for voltammetry electrodes 
 
