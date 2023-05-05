@@ -13,7 +13,7 @@
 
 Say hello!
 📫 phil.clark.phd@gmail.com
-[linkedin]: www.linkedin.com/in/philclarkphd
+[linkedin]: https://linkedin.com/in/philclarkphd
 
 
 <!--
