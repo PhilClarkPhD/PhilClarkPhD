@@ -5,6 +5,7 @@
 ## Welcome! I am a neuroscientist who loves to work with data.
 
 ### 🕒 **Recent projects:**
+- [Marketing Mix Modeling (MMM)](https://github.com/PhilClarkPhD/mmm/tree/main)
 - [Sleep analysis with automated scoring](https://github.com/PhilClarkPhD/sleep)
 - [Photometry analysis program](https://github.com/PhilClarkPhD/photometry)
 - Batch analysis of cocaine self-administration data
